@@ -1,3 +1,4 @@
+protobuf==3.20.3
 streamlit>=1.32.0
 chromadb>=1.0.0
 langchain>=0.1.0
